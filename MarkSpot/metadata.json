@@ -1,0 +1,10 @@
+{
+    "name": "MarkSpot",
+    "creator": "MisterCheezeCake",
+    "description": "Marks Spots in the World",
+    "entry": "index.js",
+    "requires": [],
+    "helpMessage": "",
+    "isRequired": false,
+    "version": "index.js"
+}

@@ -1,0 +1,191 @@
+
+[general]
+	command_name = "warp"
+	enabled = true
+
+[aliases]
+	sirius_shack_aliases = ""
+	crystal_hollows_aliases = ""
+	dwarven_mines_aliases = ""
+	hub_aliases = ""
+	crimson_isle_aliases = ""
+	private_island_aliases = ""
+	the_forge_aliases = ""
+	"arachne's_sanctuary_aliases" = ""
+	the_park_aliases = ""
+	the_wasteland_aliases = ""
+	"trapper's_den_aliases" = ""
+	the_barn_aliases = ""
+	forgotten_skull_aliases = ""
+	garden_aliases = ""
+	dungeon_hub_aliases = ""
+	mushroom_desert_aliases = ""
+	castle_ruins_aliases = ""
+	spider_mound_aliases = ""
+	museum_aliases = ""
+	hub_crypts_aliases = ""
+	crystal_nucleus_aliases = ""
+	community_center_aliases = ""
+	"spider's_den_aliases" = ""
+	smolderimg_tomb_aliases = ""
+	jungle_aliases = ""
+	"dragon's_nest_aliases" = ""
+	gold_mine_aliases = ""
+	scarleton_aliases = ""
+	"jerry's_workshop_aliases" = ""
+	dragontail_aliases = ""
+	deep_caverns_aliases = ""
+	void_sepulture_aliases = ""
+	howling_cave_aliases = ""
+	the_end_aliases = ""
+
+	[aliases.community_center]
+		community_center_aliases = ""
+
+	[aliases.crystal_hollows]
+		crystal_hollows_aliases = ""
+
+	[aliases.the_end]
+		the_end_aliases = ""
+
+	[aliases.castle_ruins]
+		castle_ruins_aliases = ""
+
+	[aliases.gold_mine]
+		gold_mine_aliases = ""
+
+	[aliases.dungeon_hub]
+		dungeon_hub_aliases = ""
+
+	[aliases.sirius_shack]
+		sirius_shack_aliases = ""
+
+	[aliases.the_barn]
+		the_barn_aliases = ""
+
+	[aliases.the_park]
+		the_park_aliases = ""
+
+	[aliases.the_forge]
+		the_forge_aliases = ""
+
+	[aliases.private_island]
+		private_island_aliases = ""
+
+	[aliases.dragontail]
+		dragontail_aliases = ""
+
+	[aliases.howling_cave]
+		howling_cave_aliases = ""
+
+	[aliases."dragon's_nest"]
+		"dragon's_nest_aliases" = ""
+
+	[aliases.museum]
+		museum_aliases = ""
+
+	[aliases.mushroom_desert]
+		mushroom_desert_aliases = ""
+
+	[aliases."jerry's_workshop"]
+		"jerry's_workshop_aliases" = ""
+
+	[aliases.jungle]
+		jungle_aliases = ""
+
+	[aliases.forgotten_skull]
+		forgotten_skull_aliases = ""
+
+	[aliases.crystal_nucleus]
+		crystal_nucleus_aliases = ""
+
+	[aliases."spider's_den"]
+		"spider's_den_aliases" = ""
+
+	[aliases.spider_mound]
+		spider_mound_aliases = ""
+
+	[aliases."trapper's_den"]
+		"trapper's_den_aliases" = ""
+
+	[aliases.hub_crypts]
+		hub_crypts_aliases = ""
+
+	[aliases.deep_caverns]
+		deep_caverns_aliases = ""
+
+	[aliases.scarleton]
+		scarleton_aliases = ""
+
+	[aliases.void_sepulture]
+		void_sepulture_aliases = ""
+
+	[aliases.smolderimg_tomb]
+		smolderimg_tomb_aliases = ""
+
+	[aliases.dwarven_mines]
+		dwarven_mines_aliases = ""
+
+	[aliases.crimson_isle]
+		crimson_isle_aliases = ""
+
+	[aliases.the_wasteland]
+		the_wasteland_aliases = ""
+
+	[aliases.hub]
+		hub_aliases = ""
+
+	[aliases.garden]
+		garden_aliases = ""
+
+	[aliases."arachne's_sanctuary"]
+		"arachne's_sanctuary_aliases" = ""
+
+[toggles]
+	dungeon_hub_command = 0
+	"trapper's_den_command" = 0
+	"spider's_den_command" = 0
+	community_center = true
+	crystal_hollows = true
+	the_end = true
+	castle_ruins = true
+	gold_mine = true
+	spider_mound = true
+	dungeon_hub = true
+	smolderimg_tomb_command = 0
+	"trapper's_den" = true
+	sirius_shack = true
+	the_barn = true
+	hub_crypts_command = 0
+	hub_command = 0
+	the_park = true
+	crystal_hollows_command = 0
+	hub_crypts = true
+	deep_caverns = true
+	scarleton = true
+	void_sepulture = true
+	the_forge = true
+	smolderimg_tomb = true
+	dwarven_mines = true
+	private_island = true
+	spider_mound_command = 0
+	dragontail = true
+	howling_cave = true
+	crimson_isle = true
+	private_island_command = 0
+	the_wasteland = true
+	crimson_isle_command = 0
+	"dragon's_nest" = true
+	hub = true
+	museum = true
+	mushroom_desert = true
+	garden = true
+	"jerry's_workshop" = true
+	"jerry's_workshop_command" = 0
+	jungle = true
+	forgotten_skull = true
+	crystal_nucleus = true
+	"arachne's_sanctuary" = true
+	"spider's_den" = true
+	void_sepulture_command = 0
+

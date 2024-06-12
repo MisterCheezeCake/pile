@@ -1,0 +1,8 @@
+{
+    "name": "BetterWarp",
+    "creator": "CheezeCake",
+    "description": "Adds tab completions for the /warp command",
+    "requires": ["CustomTabCompletions", "Vigilance"],
+    "helpMessage": "",
+    "isRequired": false
+}
